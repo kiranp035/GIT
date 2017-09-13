@@ -1,2 +1,3 @@
 comaparing the staging area with the repository
 after adding a line to the existing file
+adding one more line to show the difference between git diff and git diff --staged
